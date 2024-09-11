@@ -1,13 +1,10 @@
 # HIRO-DDOS
 
 <h1 style="color:red" align="center">What is HIRO-DDOS Tool?</h1>
-<div style="text-align: center;">
-  <p style="color:black"><b><i><u>HIRO-DDoS</u></i> is a tool capable of performing real DDoS attacks, generating massive traffic towards a real target, such as a website or a router, with the aim of overloading it. However, it is crucial to use it only in controlled environments and for legal purposes, such as cybersecurity research or infrastructure testing with the owner's permission.</b></p>
-  <img src="https://cdn.discordapp.com/attachments/1283350612783792143/1283350686624649226/H.png?ex=66e2acf7&is=66e15b77&hm=7abfadd1371eb476949b74d0afa8fb686b7e87d6090bc419b8e4074a23f58bb9&" width="300" style="display: block; margin-left: auto; margin-right: auto;">
-</div>
-
+<div>
+<p style="color:black"><b><i><u>HIRO-DDoS</u></i> is a tool capable of performing real DDoS attacks, generating massive traffic towards a real target, such as a website or a router, with the aim of overloading it. However, it is crucial to use it only in controlled environments and for legal purposes, such as cybersecurity research or infrastructure testing with the owner's permission.</b></p>
+<img src="https://cdn.discordapp.com/attachments/1283350612783792143/1283350686624649226/H.png?ex=66e2acf7&is=66e15b77&hm=7abfadd1371eb476949b74d0afa8fb686b7e87d6090bc419b8e4074a23f58bb9&" style="display:block; margin: 0 auto; width: 50%;" alt="HIRO-DDoS Logo">
 <p style="color:80% black"><b>This is a Python-coded tool for DDoS attacks. You can easily launch DDoS attacks on your target websites using</b> `Termux`, `Kali Linux`, or `Windows`! Follow the steps below to set up your tool on each platform.</b></p>
-
 <br>
 <h1 align="center" style="color:red">!!Warning!!</h1>
 <p><b>`Note: THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. PERFORMING DDOS ATTACKS WITHOUT THE SITE OWNER'S PERMISSION IS ILLEGAL. USE IT AT YOUR OWN RISK. WE ARE NOT RESPONSIBLE FOR ANY MISUSE OR LEGAL ISSUES!!!`</b></p>
@@ -98,11 +95,10 @@
 
 <h1 style="color:red" align="center">About me</h1>
 
-<div style="text-align: center;">
-  <img src="https://cdn.discordapp.com/attachments/1283350612783792143/1283356680943570994/58165029.png?ex=66e2b28c&is=66e1610c&hm=e7aa36a86805e51a1e201e640875d684a9978bf25d6ae98081f7ff58405d8189&" width="300" style="display: block; margin-left: auto; margin-right: auto;">
-  <p><b>I do this for fun</b></p>
-</div>
+<img src="https://cdn.discordapp.com/attachments/1283350612783792143/1283356680943570994/58165029.png?ex=66e2b28c&is=66e1610c&hm=e7aa36a86805e51a1e201e640875d684a9978bf25d6ae98081f7ff58405d8189&" style="display:block; margin: 0 auto; width: 50%;" alt="About me Image">
 
-<h3 style="color:purple" align="center">THANK YOU FOR USING MY TOOL</h3>
+<p><b>I do this for fun</b></p>
+
+<h3 style="color:purple">THANK YOU FOR USING MY TOOL</h3>
 
 ``©Bons18``
