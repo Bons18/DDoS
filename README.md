@@ -93,9 +93,9 @@
 3. **Enter IP Manually**: Manually input the IP address and port for the attack.
 4. **Port Scanning**: Analyze open ports on a website to select the most effective port for the attack.
 
-<h1 style="color:red" align="center">About Us</h1>
+<h1 style="color:red" align="center">About</h1>
 
-<img src="https://cdn.discordapp.com/attachments/870740780938047520/871007159150837820/20210610_164346.jpg">
+<img src="https://cdn.discordapp.com/attachments/1283350612783792143/1283356680943570994/58165029.png?ex=66e2b28c&is=66e1610c&hm=e7aa36a86805e51a1e201e640875d684a9978bf25d6ae98081f7ff58405d8189&">
 
 <p><b>T34m V18rs (Team Virus) is a Bangladeshi FB Spamming & Termux Hacker Group. We create functional tools for Termux and other platforms. Reach out to us via the links below. Thank you for using our tools!</b></p>
 
