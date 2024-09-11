@@ -24,7 +24,7 @@
 - $ `pkg install libffi`
 - $ `pkg install --upgrade pip`
 - $ `pkg install requests scapy`
-- $ `pkg install python-nmap`
+- $ `pip install python-nmap`
 - $ `git clone https://github.com/Bons18/Hiro-DDoS.git`
 
 <p><b><i>To Run the Tool:</i></b></p>
