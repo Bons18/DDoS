@@ -30,7 +30,7 @@ def display_banner():
                                      ░       ░                                                                                
 """
     border = "▄" * 70
-    padding = " " * ((40 - len(banner_title.split('\n')[0])) // 2)  # Ajustar el padding según el ancho del banner
+    padding = " " * ((40 - len(banner_title.split('\n')[0])) // 2) 
 
     print(f"\n{RED}{border}{RESET}")
     print(f"{RED}{padding}{banner_title}{RESET}")
