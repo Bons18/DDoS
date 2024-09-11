@@ -19,11 +19,11 @@
 - $ `pkg upgrade`
 - $ `pkg install python`
 - $ `pkg install git`
-- $ `pkg install nmap`
-- $ `pkg install openssl`
-- $ `pkg install libffi`
-- $ `pkg install --upgrade pip`
-- $ `pkg install requests scapy`
+- $ `pip install nmap`
+- $ `pip install openssl`
+- $ `pip install libffi`
+- $ `pip install --upgrade pip`
+- $ `pip install requests scapy`
 - $ `pip install python-nmap`
 - $ `git clone https://github.com/Bons18/Hiro-DDoS.git`
 
