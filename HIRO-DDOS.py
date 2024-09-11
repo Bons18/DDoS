@@ -37,6 +37,7 @@ def display_banner():
     print(f"{RED}{border}{RESET}")
     print()
     print(f"{RED}Coded By    : Bons18{RESET}")
+    print()
     print(f"{RED}Github      : github.com/Bons18{RESET}")
     print(f"{RED}Note        : This Tool Is Illegal & For Educational Purposes Only.{RESET}")
     print(f"{RED}              Use It At Your Own Risk. We'll Not Be Responsible For Any Issues.{RESET}")
