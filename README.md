@@ -62,12 +62,12 @@
 - Clone the repository and navigate to the directory:</p>
 
   - $ `git clone https://github.com/Bons18/Hiro-DDoS.git`
-  - $ `cd HIRO-DDOS`
+  - $ `cd Hiro-DDoS`
   - $ `python HIRO-DDOS.py`
 
 <p><b><i>To Run the Tool:</i></b></p>
 
-- $ `cd HIRO-DDOS`
+- $ `cd Hiro-DDoS`
 - $ `python HIRO-DDOS.py`
 
 <h2 style="color:orange">Setting Up a Virtual Environment:</h2>
