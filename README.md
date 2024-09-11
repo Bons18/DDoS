@@ -19,9 +19,9 @@
 - $ `pkg upgrade`
 - $ `pkg install python`
 - $ `pkg install git`
-- $ `pip install nmap`
-- $ `pip install openssl`
-- $ `pip install libffi`
+- $ `pkg install nmap`
+- $ `pkg install openssl`
+- $ `pkg install libffi`
 - $ `pip install --upgrade pip`
 - $ `pip install requests scapy`
 - $ `pip install python-nmap`
