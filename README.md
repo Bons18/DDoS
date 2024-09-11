@@ -2,7 +2,7 @@
 
 <h1 style="color:red" align="center">What is HIRO-DDOS Tool?</h1>
 <div>
-<p style="color:black"><b><i><u>Distributed Denial Of Service</u></i> (DDoS) attacks are a subclass of denial of service (DoS) attacks. A DDoS attack involves multiple connected online devices, collectively known as a botnet, which are used to overwhelm a target website with fake traffic.</b></p>
+<p style="color:black"><b><i><u>HIRO-DDoS</u></i> is a tool capable of performing real DDoS attacks, generating massive traffic towards a real target, such as a website or a router, with the aim of overloading it. However, it is crucial to use it only in controlled environments and for legal purposes, such as cybersecurity research or infrastructure testing with the owner's permission.</b></p>
 <img src="https://cdn.discordapp.com/attachments/1283350612783792143/1283350686624649226/H.png?ex=66e2acf7&is=66e15b77&hm=7abfadd1371eb476949b74d0afa8fb686b7e87d6090bc419b8e4074a23f58bb9&">
 <p style="color:80% black"><b>This is a Python-coded tool for DDoS attacks. You can easily launch DDoS attacks on your target websites using</b> `Termux`, `Kali Linux`, or `Windows`! Follow the steps below to set up your tool on each platform.</b></p>
 <br>
